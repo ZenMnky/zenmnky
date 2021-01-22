@@ -4,4 +4,4 @@ Adept and versatile, I am experienced in business and program development, organ
 
 Involved in web application development since December 2019, I bring creative solutions, organization, and collaboration. I specialize in designing and building solutions and processes from the ground up to support an organization’s objectives, managing solution lifecycles from conceptualization thru operationalization.   
 
-I am now seeking to contribute my experience and expertise to a software development project in Portland, Oregon or remotely.  
+I am now seeking to contribute my experience and expertise to a software development project in Portland, Oregon, Phoenix, AZ or remotely.  
