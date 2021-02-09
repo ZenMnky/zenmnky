@@ -3,16 +3,14 @@
 '----   
 📍 👨‍💻  **What am I up to right now in the tech domain?**
 - **Exploring unix and [JAMstack](https://jamstack.org/)**: 
+    
+    - I start simple and focus on progressive enhancement, learning as I go.
+    
     - Set up a headless raspberry pi on my wireless network just as an initial learning project
 
     - Set up a linux virtual machine that I'm using as my JAMstack dev environment
-
-        - I start simple and focus on progressive enhancement, learning as I go.
-
-        - I have two primary real-world mini-projects (blogs) that I'm using to get familiar with all this: [JustinHager.blog](https://justinhager.blog/) & [JustinLexiAcro.yoga](https://justinlexiacro.yoga/)
-
-        
-        - Things on my list to explore/practice further: [11ty](https://www.11ty.dev/), [Agility CMS](https://agilitycms.com/), [Tailwind CSS](https://tailwindcss.com/), [Auth0](https://auth0.com/)
+     
+    - Things on my list to explore/practice further: [11ty](https://www.11ty.dev/), [Agility CMS](https://agilitycms.com/), [Tailwind CSS](https://tailwindcss.com/), [Auth0](https://auth0.com/)
 
 
 - **Finishing up a fullstack software dev program through Thinkful**
