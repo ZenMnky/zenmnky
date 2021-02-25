@@ -8,7 +8,7 @@
     - Expected certification date: 2021.03.11
 
  - **Linux, DevOps, and System Administration** 
-    - Hands-on learning as I prepare for [LFCA](https://training.linuxfoundation.org/certification/certified-it-associate/) & [LFCS](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/) 
+    - Hands-on learning as I prepare for [LFCA](https://training.linuxfoundation.org/certification/certified-it-associate/) & [LFCS](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/) certification exams
     
 - **Community**
      - Initial stages in volunteering to help with [Life Church's Open Network](https://open.life.church/) software engineering team
