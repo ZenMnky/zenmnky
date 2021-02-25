@@ -11,7 +11,7 @@
     - Hands-on learning as I prepare for [LFCA](https://training.linuxfoundation.org/certification/certified-it-associate/) & [LFCS](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/) certification exams
     
 - **Community**
-     - Initial stages in volunteering to help with [Life Church's Open Network](https://open.life.church/) software engineering team
+     - Initial stages in volunteering with [Life Church's Open Network](https://open.life.church/) software engineering team
         - currently just getting oriented with their code base and tech
     -  [Learn In Public](https://www.swyx.io/learn-in-public/)
          -  Increasing involvement in [Dev.to](https://dev.to/zenmnky) and just setup a [blog](https://blog.justinhager.codes/) with Ghost and Digital Ocean
