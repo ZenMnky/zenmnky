@@ -2,24 +2,21 @@
 
 '----   
 📍 👨‍💻  **What am I up to right now in the tech domain?**
-- **Exploring unix and [JAMstack](https://jamstack.org/)**: 
-    
-    - I start simple and focus on progressive enhancement, learning as I go.
-    
-    - Set up a headless raspberry pi on my wireless network just as an initial learning project
-
-    - Set up a linux virtual machine that I'm using as my JAMstack dev environment
-     
-    - Things on my list to explore/practice further: [11ty](https://www.11ty.dev/), [Agility CMS](https://agilitycms.com/), [Tailwind CSS](https://tailwindcss.com/), [Auth0](https://auth0.com/)
-
 
 - **Finishing up a fullstack software dev program through Thinkful**
+    - One project left to finish up
     - Expected certification date: 2021.03.11
 
-- **Looking to make a break-in to the tech field and find out how I can best contribute**
-    - I've recently begun to consider that my skills could be well applied as a liaison between a tech team and other stakeholders. Pretty similar to my role as program coordinator for a University's personal training program, similar to work I've done with a non-profit, and similar to work I've done as a personal trainer and health coach
-
+ - **Linux, DevOps, and System Administration** 
+    - Hands-on learning as I prepare for [LFCA](https://training.linuxfoundation.org/certification/certified-it-associate/) & [LFCS](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/) 
+    
+- **Community**
      - Initial stages in volunteering to help with [Life Church's Open Network](https://open.life.church/) software engineering team
+        - currently just getting oriented with their code base and tech
+    -  [Learn In Public](https://www.swyx.io/learn-in-public/)
+         -  Increasing involvement in [Dev.to](https://dev.to/zenmnky) and just setup a [blog](https://blog.justinhager.codes/) with Ghost and Digital Ocean
+            - Currently focused on engaging in the [Dev.to](https://dev.to/zenmnky) community as I ponder how to contribute. 
+            - I'm really attracted to the '[Today I Learned](https://dev.to/jbranchaud/how-i-built-a-learning-machine-45k9)' posting style
 
 '----   
 🔨🔥 👨💬 **Career background**:    
@@ -33,8 +30,7 @@
 '----   
 🤸 **For fun**: 
 - [AcroYoga](https://youtu.be/D3JW31Wq2Y0)
-- Conversations
-- Korean shows & Japanese anime from time to time
+- Conversations at [Virtual Coffee](https://virtualcoffee.io/)
 
 
 '----  
