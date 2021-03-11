@@ -3,9 +3,7 @@
 '----   
 📍 👨‍💻  **What am I up to right now in the tech domain?**
 
-- **Finishing up a fullstack software dev program through Thinkful**
-    - One project left to finish up
-    - Expected certification date: 2021.03.11
+- **Graduated from Thinkful's Software Engineering program**
 
  - **Linux, DevOps, and System Administration** 
     - Hands-on learning as I prepare for [LFCA](https://training.linuxfoundation.org/certification/certified-it-associate/) & [LFCS](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/) certification exams
@@ -13,6 +11,7 @@
 - **Community**
      - Initial stages in volunteering with [Life Church's Open Network](https://open.life.church/) software engineering team
         - currently just getting oriented with their code base and tech
+
     -  [Learn In Public](https://www.swyx.io/learn-in-public/)
          -  Increasing involvement in [Dev.to](https://dev.to/zenmnky) and just setup a [blog](https://blog.justinhager.codes/) with Ghost and Digital Ocean
             - Currently focused on engaging in the [Dev.to](https://dev.to/zenmnky) community as I ponder how to contribute. 
