@@ -3,7 +3,7 @@
 '----   
 📍 👨‍💻  **What am I up to right now in the tech domain?**
 
-- **Learning 😎 **
+- **Learning 😎**
 
   - **Linux, DevOps, and System Administration** 
      - Hands-on learning as I prepare for [LFCA](https://training.linuxfoundation.org/certification/certified-it-associate/) & [LFCS](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/) certification exams
