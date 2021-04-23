@@ -8,7 +8,7 @@
   - **Linux, DevOps, and System Administration** 
      - Hands-on learning as I prepare for [LFCA](https://training.linuxfoundation.org/certification/certified-it-associate/) & [LFCS](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/) certification exams
 
-  - **Ruby on Rails to create APIs**
+  - **Rails**
   - **Vue.js**
   - **TailwindCSS**
     
@@ -27,7 +27,7 @@
 
 '----   
 🤸 **For fun**: 
-- [AcroYoga](https://www.youtube.com/watch?v=LK_f5iNX_d0)
+- [AcroYoga](https://youtu.be/hMTq6C2VKYU)
 - Conversations at [Virtual Coffee](https://virtualcoffee.io/)
 
 
