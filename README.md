@@ -1,4 +1,4 @@
-![beautiful-photo](https://i.ibb.co/1GYVmyN/Linked-In-Banner-Acro-Yoga.jpg)
+![acroyoga](https://i.ibb.co/1GYVmyN/Linked-In-Banner-Acro-Yoga.jpg)
 
 
 ## Professional Profile 
@@ -16,10 +16,10 @@ Dynamic professional with robust knowledge and skills in developing advanced sof
 
 
 
-🔗 _[LinkedIn](https://www.linkedin.com/in/developerjustinhager/)_
+## 🔗 _[LinkedIn](https://www.linkedin.com/in/developerjustinhager/)_
 
 <br />
 
-> _'Pursue what is meaningful, not what is expedient' - Jordan B Peterson_  
+!['Pursue what is meaningful, not what is expedient' - Jordan B Peterson](https://i.ibb.co/PmR8yQy/Linked-In-Banner-Pursue-what-is-meaningful.jpg)
 
 <br />
