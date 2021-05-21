@@ -1,44 +1,22 @@
-# Justin 'ZenMnky' Hager
-
-'----   
-📍 👨‍💻  **What am I up to right now in the tech domain?**
-
-- **Learning 😎**
-
-  - **Linux, DevOps, and System Administration** 
-     - Hands-on learning as I prepare for [LFCA](https://training.linuxfoundation.org/certification/certified-it-associate/) & [LFCS](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/) certification exams
-
-  - **Rails**
-  - **Vue.js**
-  - **TailwindCSS**
-    
-- **Community 🧑‍🤝‍🧑**
-     
-    -  [Learn In Public](https://www.swyx.io/learn-in-public/)
-         -  Increasing involvement in [Dev.to](https://dev.to/zenmnky) and just setup a [blog](https://blog.justinhager.codes/) with Ghost and Digital Ocean
-            - Currently focused on engaging in the [Dev.to](https://dev.to/zenmnky) community as I ponder how to contribute. 
-            - I'm really attracted to the '[Today I Learned](https://dev.to/jbranchaud/how-i-built-a-learning-machine-45k9)' posting style
+![beautiful-photo](https://i.ibb.co/1GYVmyN/Linked-In-Banner-Acro-Yoga.jpg)
 
 
-'----   
-🎓 **Educational background**: 
-- CISCO networking vocational program in highschool, started out college in a computer science program with aims of being a software developer, developed a fear that my life would be like 'Office Space'. Went back to college and focused on Public Health and Health Sciences. Returned to software development with independent study, then TreeHouse's TechDegree program, then a full-time software development program.
+## Professional Profile 
+Dynamic professional with robust knowledge and skills in developing advanced software, implementing effective programming practices, and overseeing and streamlining operations. Able to coordinate full software development life cycle while designing efficient algorithms, writing reusable source code, and managing databases to automate complex business processes. Adept at ideating creative digital concepts, transforming users’ requirements into software specifications, and driving system enhancement to improve system reliability. Adept at scheduling and prioritizing tasks to finalize simultaneous projects within scope and time. Engaging presenter and skilled communicator with proven ability to collaborate with key project stakeholders. 
+
+## Core Competencies:
+        ◦ Full Stack Software Development
+        ◦ Effective Programming Practice
+        ◦ Key Stakeholder Engagement
+        ◦ Process and System Improvement
+        ◦ Quality Assurance and Testing
+        ◦ Client Experience Management 
+        ◦ Problem Resolution / Troubleshooting
+        ◦ Team Collaboration / Coordination
 
 
-'----   
-🤸 **For fun**: 
-- [AcroYoga](https://youtu.be/hMTq6C2VKYU)
-- Conversations at [Virtual Coffee](https://virtualcoffee.io/)
 
-
-'----  
-
-I look forward to being more involved in this community and getting to know more of you 🙇  
-
-<br />
-
--Justin 'ZenMnky' Hager    
-_[LinkedIn](https://www.linkedin.com/in/developerjustinhager/)_
+🔗 _[LinkedIn](https://www.linkedin.com/in/developerjustinhager/)_
 
 <br />
 
