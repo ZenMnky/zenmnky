@@ -1,6 +1,6 @@
 <br />
 
-!['Pursue what is meaningful, not what is expedient' - Jordan B Peterson](https://i.ibb.co/PmR8yQy/Linked-In-Banner-Pursue-what-is-meaningful.jpg)
+![Do not leave unwanted things in the fog](https://user-images.githubusercontent.com/59234683/202813687-4ae94776-b102-4a00-a6e7-683f275214cb.jpg)
 
 <br />
 
